@@ -12,7 +12,7 @@ If you would like to propose changes, new directions, or references you can clic
 
 In 2013, T. Mikolov et al<sup>[1](#footnotes)</sup> proposed an efficient unsupervised algorithm that represents words as points in a high-dimension space, where the distance and direction between points encodes the relationship between words. This mapping of the words in a language to a geometric structure is known as a '[word embedding](http://jalammar.github.io/illustrated-word2vec/)’.
 
-![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_1.png)
+![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/10k_eng_med_opt.gif)
 
 ```
 An example of a geometric representation, an ‘embedding,’ of the top 10,000
@@ -72,7 +72,7 @@ To tackle the problem, we are building an open-source toolkit, data sets, benchm
 * **Modality inference.** We are extending comparative embedding analysis towards inferring the type of data a corpus contains. By comparing an unknown embedding to embeddings of human languages, music, images, 3D models, etc., we can infer the kind of experience that is being communicated, getting us closer to the question: What is it *‘like’* to be another species?
 * **Cross-modality translation.** Human and non-human communication can be extra-linguistic: The many sign languages are a perfect candidate for attempting unsupervised translation by aligning their embedding of a visual communication (sign language, facial and postural language, etc) with the embeddings of a written or spoken language.
 
-**CHALLENGES**
+## CHALLENGES
 
 **The Umwelt Problem**
 
@@ -89,14 +89,15 @@ One of the difficulties in decoding an unknown vocalized language is determining
 ![image alt text](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_5.png)
 
 ```
-A hyper-resolution spectrogram of a single dolphin whistle with two echolocation
-clicks, showing the calls fine structure.
+A linearly reassigned spectrogram of a single dolphin whistle with two echolocation
+clicks, showing the calls fine structure. Resolving which part of this signal is
+meaningful is an unsolved problem.
 ```
 
-<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
+Linear reassignment references. <sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
 
 
-*Resolving which part of this signal is meaningful is an unsolved problem.*
+
 
 The cocktail party problem is the task of separating out an individual speaker from a complex acoustic signal with multiple speakers and background noise.
 
