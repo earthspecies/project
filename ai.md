@@ -12,7 +12,7 @@ If you would like to propose changes, new directions, or references you can clic
 
 In 2013, T. Mikolov et al<sup>[1](#footnotes)</sup> proposed an efficient unsupervised algorithm that represents words as points in a high-dimension space, where the distance and direction between points encodes the relationship between words. This mapping of the words in a language to a geometric structure is known as a '[word embedding](http://jalammar.github.io/illustrated-word2vec/)’.
 
-![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_1.png)
+![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/10k_eng_med_opt.gif)
 
 ```
 An example of a geometric representation, an ‘embedding,’ of the top 10,000
