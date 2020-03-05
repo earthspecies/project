@@ -90,13 +90,13 @@ One of the difficulties in decoding an unknown vocalized language is determining
 
 ```
 A linearly reassigned spectrogram of a single dolphin whistle with two echolocation
-clicks, showing the calls fine structure.
+clicks, showing the calls fine structure. Resolving which part of this signal is meaningful is an unsolved problem.
 ```
 
-Linear reassignment references.<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
+Linear reassignment references. <sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
 
 
-*Resolving which part of this signal is meaningful is an unsolved problem.*
+
 
 The cocktail party problem is the task of separating out an individual speaker from a complex acoustic signal with multiple speakers and background noise.
 
