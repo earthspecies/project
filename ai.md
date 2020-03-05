@@ -1,7 +1,3 @@
-<style>
-.caption{ font-size:80%;padding: 0 20px 20px 20px; }
-</style>
-
 <img src="https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_0.png" alt="ESP Logo" width="200px">
 
 ## Earth Species Project
