@@ -72,7 +72,7 @@ To tackle the problem, we are building an open-source toolkit, data sets, benchm
 * **Modality inference.** We are extending comparative embedding analysis towards inferring the type of data a corpus contains. By comparing an unknown embedding to embeddings of human languages, music, images, 3D models, etc., we can infer the kind of experience that is being communicated, getting us closer to the question: What is it *‘like’* to be another species?
 * **Cross-modality translation.** Human and non-human communication can be extra-linguistic: The many sign languages are a perfect candidate for attempting unsupervised translation by aligning their embedding of a visual communication (sign language, facial and postural language, etc) with the embeddings of a written or spoken language.
 
-**CHALLENGES**
+## CHALLENGES
 
 **The Umwelt Problem**
 
