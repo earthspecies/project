@@ -27,7 +27,11 @@ One of the most striking properties of these embeddings is that analogies have g
 
 ![image alt text](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_2.png)
 
-```A schematic representation of an embedding projected to two dimensions. You can see how analogous pairs of words share the same geometric relationships. The geometry of an embedding represents the structure of the language’s internal relationships.```
+```
+A schematic representation of an embedding projected to two dimensions. You can see
+how analogous pairs of words share the same geometric relationships. The geometry
+of an embedding represents the structure of the language’s internal relationships.
+```
 
 ## TRANSLATION
 
@@ -43,7 +47,10 @@ The method is as elegant as its implications are profound: align the languages�
 
 ![image alt text](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_3.png)
 
-```Human languages appear to share the same rough structure. You can translate between languages by matching their structures.```
+```
+Human languages appear to share the same rough structure. You can translate
+between languages by matching their structures.
+```
 
 These multi-lingual embeddings—sometimes called universal embeddings<sup>[8](#footnotes)</sup>–are used by the major tech companies in their modern machine translation products<sup>[9](#footnotes)</sup>.
 
@@ -81,7 +88,12 @@ One of the difficulties in decoding an unknown vocalized language is determining
 
 ![image alt text](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_5.png)
 
-```A hyper-resolution<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup> spectrogram of a single dolphin whistle with two echolocation clicks, showing the calls fine structure.```
+```
+A hyper-resolution spectrogram of a single dolphin whistle with two echolocation
+clicks, showing the calls fine structure.
+```
+
+<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
 
 
 *Resolving which part of this signal is meaningful is an unsolved problem.*
