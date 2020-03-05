@@ -16,7 +16,7 @@ In 2013, T. Mikolov et al<sup>[1](#footnotes)</sup> proposed an efficient unsupe
 
 ![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_1.png)
 
-<div style="font-size:80%;padding:20px;">An example of a geometric representation, an ‘embedding,’ of the top 10,000 most spoken words in English. While each word is actually represented by a point in hundreds of dimensions, here it is projected down to three for visualization. The hundreds of axes are semantically meaningful but hard to interpret.</div>
+<span style="font-size:80%;padding:20px;">An example of a geometric representation, an ‘embedding,’ of the top 10,000 most spoken words in English. While each word is actually represented by a point in hundreds of dimensions, here it is projected down to three for visualization. The hundreds of axes are semantically meaningful but hard to interpret.</span>
 
 The ability to represent words in a physical space sparked an explosion in the field of natural language processing and the research is foundational in all modern techniques. Contextual embeddings came more recently<sup>[2, ](#footnotes)</sup><sup>[3](#footnotes)</sup>, that use unsupervised neural networks to create embeddings that incorporate the deeper nuances of words, like their polysemy<sup>[4](#footnotes)</sup>.
 
@@ -32,7 +32,9 @@ Imagine being given two entirely unknown languages and that just by analyzing ea
 
 In late 2017, A. Conneau et al<sup>[6](#footnotes)</sup> and M. Artetxe et al<sup>[7](#footnotes)</sup> demonstrated how to do exactly that: to translate between unknown languages without the need for a Rosetta Stone, dictionary, or any examples of translation.
 
-> "There is now a way to learn to translate between, say, Urdu and English by having access only to text in English and completely unrelated text in Urdu – without having any of the respective translations." – Guillaume Lample, Facebook AI Research (2018)
+> "There is now a way to learn to translate between, say, Urdu and English by having access only to text in English and completely unrelated text in Urdu – without having any of the respective translations."
+>
+> – Guillaume Lample, Facebook AI Research (2018)
 
 The method is as elegant as its implications are profound: align the languages’ embeddings by rotating one over the other until their shapes match. This aligns the structure of their internal relationships so the points of one language are overlaid with the points from a second language. To translate a word, you find the point in the second language closest to the word’s point in the first language.
 
