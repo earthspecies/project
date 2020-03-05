@@ -89,11 +89,11 @@ One of the difficulties in decoding an unknown vocalized language is determining
 ![image alt text](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_5.png)
 
 ```
-A hyper-resolution spectrogram of a single dolphin whistle with two echolocation
+A linearly reassigned spectrogram of a single dolphin whistle with two echolocation
 clicks, showing the calls fine structure.
 ```
 
-<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
+Linear reassignment references.<sup><a href="#footnotes">11, </a></sup><sup><a href="#footnotes">12</a></sup>
 
 
 *Resolving which part of this signal is meaningful is an unsolved problem.*
