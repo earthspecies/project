@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_0.png" alt="ESP Logo" width="200px">
-
-## Earth Species Project
+## Earth Species Project: Research Direction
 
 An open-source collaborative and nonprofit dedicated to decoding animal communication.
 
@@ -16,7 +14,12 @@ In 2013, T. Mikolov et al<sup>[1](#footnotes)</sup> proposed an efficient unsupe
 
 ![Example of the word embeddings for English](https://raw.githubusercontent.com/earthspecies/roadmaps/master/images/ai/image_1.png)
 
-```An example of a geometric representation, an ‘embedding,’ of the top 10,000 most spoken words in English. While each word is actually represented by a point in hundreds of dimensions, here it is projected down to three for visualization. The hundreds of axes are semantically meaningful but hard to interpret.```
+```
+An example of a geometric representation, an ‘embedding,’ of the top 10,000
+most spoken words in English. While each word is actually represented by a point
+in hundreds of dimensions, here it is projected down to three for visualization.
+The hundreds of axes are semantically meaningful but hard to interpret.
+```
 
 The ability to represent words in a physical space sparked an explosion in the field of natural language processing and the research is foundational in all modern techniques. Contextual embeddings came more recently<sup>[2, ](#footnotes)</sup><sup>[3](#footnotes)</sup>, that use unsupervised neural networks to create embeddings that incorporate the deeper nuances of words, like their polysemy<sup>[4](#footnotes)</sup>.
 
