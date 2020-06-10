@@ -12,7 +12,7 @@ If you would like to propose changes, new directions, or references you can clic
 
 In 2013, T. Mikolov et al<sup>[1](#footnotes)</sup> proposed an efficient unsupervised algorithm that represents words as points in a high-dimension space, where the distance and direction between points encodes the relationship between words. This mapping of the words in a language to a geometric structure is known as a '[word embedding](http://jalammar.github.io/illustrated-word2vec/)’.
 
-![Example of the word embeddings for English](https://github.com/project/blob/assets/10k_eng_med_opt.gif)
+![Example of the word embeddings for English](https://github.com/earthspecies/project/blob/assets/10k_eng_med_opt.gif)
 
 ```
 An example of a geometric representation, an ‘embedding,’ of the top 10,000
@@ -25,7 +25,7 @@ The ability to represent words in a physical space sparked an explosion in the f
 
 One of the most striking properties of these embeddings is that analogies have geometric representation<sup>[5](#footnotes)</sup>, allowing for the comparison and mapping of the relationships between concepts, giving rise to both local and global structure.
 
-![woman queen](https://github.com/project/blob/assets/woman_queen.png)
+![woman queen](https://github.com/earthspecies/project/blob/assets/woman_queen.png)
 
 ```
 A schematic representation of an embedding projected to two dimensions. You can see
@@ -45,7 +45,7 @@ In late 2017, A. Conneau et al<sup>[6](#footnotes)</sup> and M. Artetxe et al<su
 
 The method is as elegant as its implications are profound: align the languages’ embeddings by rotating one over the other until their shapes match. This aligns the structure of their internal relationships so the points of one language are overlaid with the points from a second language. To translate a word, you find the point in the second language closest to the word’s point in the first language.
 
-![rotate](https://github.com/project/blob/assets/rotate.png)
+![rotate](https://github.com/earthspecies/project/blob/assets/rotate.png)
 
 ```
 Human languages appear to share the same rough structure. You can translate
@@ -86,7 +86,7 @@ At the same time, we are taking a bottom-up approach: we can learn a lot by comp
 
 One of the difficulties in decoding an unknown vocalized language is determining the part of the signal which encodes the parts that matter: Is it tone, pitch, tempo, rhythm, repetition, harmonic structure, or some other attribute entirely that matters? This is the carrier-signal problem.
 
-![image alt text](https://github.com/project/blob/assets/hyper_spectrogram.png)
+![hyperresolution spectrogram](https://github.com/earthspecies/project/blob/assets/hyper_spectrogram.png)
 
 ```
 A linearly reassigned spectrogram of a single dolphin whistle with two echolocation
