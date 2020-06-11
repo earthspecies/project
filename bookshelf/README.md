@@ -20,9 +20,14 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 
 - [T. Gardner, M. Magnasco: "Sparse time-frequency representations", 2006 PNAS](https://doi.org/10.1073/pnas.0601707103)
 
+### Bioacoustics
+
+- [S. Ness: "The Orchive: A system for semi-automatic annotation and analysis of a large collection of bioacoustic recordings", 2013](https://dspace.library.uvic.ca/handle/1828/5109)
+
 ## Projects
 
 - [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
+- [WHOI Dolphin Mass Stranding Alarm](https://www.whoi.edu/news-insights/content/bioacoustic-alarms/)
 
 ## Books
 
@@ -31,3 +36,7 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 - [Are We Smart Enough to Know How Smart Animals Are?](https://openlibrary.org/works/OL17762162W/Are_We_Smart_Enough_to_Know_How_Smart_Animals_Are], by [Frans de Waal](https://openlibrary.org/authors/OL2631049A/Frans_de_Waal)
 - [Animal Liberation](https://archive.org/details/animalliberation00sing_0), by [Peter Singer](https://archive.org/search.php?query=creator%3A%22Singer%2C+Peter%22)
 Reflections on _rights_ and _equality_.
+
+### Bioacoustics
+
+- [Passive Acoustic Monitoring of Cetaceans](https://www.cambridge.org/core/books/passive-acoustic-monitoring-of-cetaceans/8D59083194B2634B9F490635EAF23653)
