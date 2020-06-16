@@ -8,7 +8,7 @@ We are inspired by the incredible diversity of communication systems on Earth. F
 
 We are motivated by the recent monumental milestone in machine learning: the invention of techniques that can translate languages without dictionaries.
 
-The [earthspecies.org](https://earthspecies.org) website contains an overview of the project. If you are a biologist or ML practitioner, the [library](https://github.com/earthspecies/library) and [roadmap](/roadmap) are great places to start.
+The [earthspecies.org](https://earthspecies.org) website contains an overview of the project. If you are a biologist or ML practitioner, the [library](https://github.com/earthspecies/library) and [roadmap](/roadmaps) are great places to start.
 
 ## Community
 
