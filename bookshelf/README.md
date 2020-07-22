@@ -15,6 +15,7 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 - [M. Artetxe, G. Labaka, E. Agirre: “Unsupervised Neural Machine Translation”, 2017](http://arxiv.org/abs/1710.11041)
 - [D. Cer, Y. Yang, S. Kong, N. Hua, N. Limtiaco, R. John, N. Constant, M. Guajardo-Cespedes, S. Yuan, C. Tar, Y. Sung, B.: "Universal Sentence Encoder", 2018](http://arxiv.org/abs/1803.11175)
 - [Y. Chung, W. Weng, S. Tong, J. Glass: "Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces", 2018](http://arxiv.org/abs/1805.07467)
+- [Bermant, P.C., Bronstein, M.M., Wood, R.J. et al. Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics. Sci Rep 9, 12588 (2019)](https://www.nature.com/articles/s41598-019-48909-4)
 
 ### DSP & Sound
 
@@ -33,7 +34,7 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 
 ### Animal Behavior & Welfare
 
-- [Are We Smart Enough to Know How Smart Animals Are?](https://openlibrary.org/works/OL17762162W/Are_We_Smart_Enough_to_Know_How_Smart_Animals_Are], by [Frans de Waal](https://openlibrary.org/authors/OL2631049A/Frans_de_Waal)
+- [Are We Smart Enough to Know How Smart Animals Are?](https://openlibrary.org/works/OL17762162W/Are_We_Smart_Enough_to_Know_How_Smart_Animals_Are), by [Frans de Waal](https://openlibrary.org/authors/OL2631049A/Frans_de_Waal)
 - [Animal Liberation](https://archive.org/details/animalliberation00sing_0), by [Peter Singer](https://archive.org/search.php?query=creator%3A%22Singer%2C+Peter%22)
 Reflections on _rights_ and _equality_.
 
