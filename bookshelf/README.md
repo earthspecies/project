@@ -41,3 +41,8 @@ Reflections on _rights_ and _equality_.
 ### Bioacoustics
 
 - [Passive Acoustic Monitoring of Cetaceans](https://www.cambridge.org/core/books/passive-acoustic-monitoring-of-cetaceans/8D59083194B2634B9F490635EAF23653)
+
+### Plants
+
+- [The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior
+](https://www.goodreads.com/book/show/35721619-the-revolutionary-genius-of-plants) - _An incredible book about the history of the scientific study of plant intelligence._
