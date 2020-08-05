@@ -7,15 +7,17 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 ### Machine Learning
 - [Tim Sainburg, Marvin Thielk, Timothy Q Gentner: "Latent space visualization, characterization, and generation of diverse vocal communication signals", 2019](https://www.biorxiv.org/content/biorxiv/early/2019/12/11/870311.full.pdf) An exploration of generative latent spaces and umap for a 20 species.
 - [T. Mikolov, K. Chen, G. Corrado: "Efficient Estimation of Word Representations in Vector Space", 2013](http://arxiv.org/abs/1301.3781)
+- [A. Conneau, G. Lample, M. Ranzato, L. Denoyer: "Word Translation Without Parallel Data", 2017](http://arxiv.org/abs/1710.04087)
+- [Bermant, P.C., Bronstein, M.M., Wood, R.J. et al. Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics. Sci Rep 9, 12588 (2019)](https://www.nature.com/articles/s41598-019-48909-4)
 - [M. Peters, M. Neumann, M. Iyyer, M. Gardner, C. Clark, K. Lee: "Deep contextualized word representations", 2018](http://arxiv.org/abs/1802.05365)
 - [Tal Schuster, Ori Ram, Regina Barzilay: “Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing”, 2019](http://arxiv.org/abs/1902.09492)
 - [K. Ethayarajh: “How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings”, 2019](https://www.aclweb.org/anthology/D19-1006.pdf)
 - [K. Ethayarajh, D. Duvenaud, G. Hirst: “Towards Understanding Linear Word Analogies”, 2018](http://arxiv.org/abs/1810.04882)
-- [A. Conneau, G. Lample, M. Ranzato, L. Denoyer: "Word Translation Without Parallel Data", 2017](http://arxiv.org/abs/1710.04087)
 - [M. Artetxe, G. Labaka, E. Agirre: “Unsupervised Neural Machine Translation”, 2017](http://arxiv.org/abs/1710.11041)
 - [D. Cer, Y. Yang, S. Kong, N. Hua, N. Limtiaco, R. John, N. Constant, M. Guajardo-Cespedes, S. Yuan, C. Tar, Y. Sung, B.: "Universal Sentence Encoder", 2018](http://arxiv.org/abs/1803.11175)
 - [Y. Chung, W. Weng, S. Tong, J. Glass: "Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces", 2018](http://arxiv.org/abs/1805.07467)
-- [Bermant, P.C., Bronstein, M.M., Wood, R.J. et al. Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics. Sci Rep 9, 12588 (2019)](https://www.nature.com/articles/s41598-019-48909-4)
+- [Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein: "Implicit Neural Representations with Periodic Activation Functions", 2020](https://arxiv.org/abs/2006.09661)
+- [Sam Bond-Taylor, Chris G. Willcocks: "Gradient Origin Networks", 2020](https://arxiv.org/abs/2007.02798)
 
 ### DSP & Sound
 
