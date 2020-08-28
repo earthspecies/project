@@ -1,42 +1,24 @@
 # Earth Species Project
 
-wip
+The Earth Species Project (ESP) is an open-source collaborative and nonprofit dedicated to decoding and translating animal communication. For more information on ESP, you can visit [our website](https://earthspecies.org).
 
-The Earth Species Project is an open-source collaborative and nonprofit dedicated to decoding animal communication.
+We've been doing a lot of exploratory work in our Github, much of it in tutorial form. We've been gaining intuition about how to work with animal vocalizations with the tools of deep learning, as well as think about how to make exploration as a whole faster and more efficient. An example of this is the [Acoustic Representation Toolkit](https://github.com/earthspecies/project/discussions), where we implement a toolkit allows a wide range of aucoustic representations—from spectrograms, to the HHT, to deep learned—that are well documented, tested, and integrate easily with PyTorth pipelines.
 
-We are inspired by the incredible diversity of communication systems on Earth. From the mycelial networks that connect Earth’s forests like an Internet to the rainbow-rave richness of cuttlefish communication, we are surrounded by messages and meaning. We believe that an understanding of non-human languages will change our ecological impact on this planet.
+Next up, we are going to start working more specifically on two prongs of research:
 
-We are motivated by the recent monumental milestone in machine learning: the invention of techniques that can translate languages without dictionaries.
+1. The Cocktail Party Problem
+1. Extending Unsupervised Human Audio Translation
 
-The [earthspecies.org](https://earthspecies.org) website contains an overview of the project. If you are a biologist or ML practitioner, the [library](https://github.com/earthspecies/library) and [roadmap](/roadmaps) are great places to start.
+At the same time, we are working on:
 
-## Community
+* Building the ESP Library, with data sets accompanied by sets of tasks, creating MNIST-like benchmarks for the animal domain.
 
-wip
 
 ## Get Started
 
-wip
+* First thing to do is to [introduce yourself](https://github.com/earthspecies/project/discussions/22).
+* You can also jump into [our discussions](https://github.com/earthspecies/project/discussions). We work in the open, so if using deep learning to decode and translate animal communication interests you, hop in!
 
-## Learning
-
-wip 
-
-- [our bookshelf (papers, books, articles)](/bookshelf)
-- zero-dsp
-- fast.ai
-- biology space?
-- papers
-- library examples
-- gh discussions (library)
-
-## Contributing
-
-wip
-
-## Team
-
-wip
 
 ## Contributors
 
