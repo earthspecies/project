@@ -7,11 +7,11 @@ We've been doing a lot of exploratory work in our Github, much of it in tutorial
 Next up, we are working on more specifically on two prongs of research:
 
 1. [The Cocktail Party Problem](https://github.com/earthspecies/cocktail-party-problem)
-1. Extending Unsupervised Human Audio Translation
+1. [Extending Unsupervised Human Audio Translation](https://github.com/orgs/earthspecies/projects/4)
 
 At the same time, we are working on:
 
-* Building the ESP Library, with data sets accompanied by sets of tasks, creating MNIST-like benchmarks for the animal domain.
+* Building the [ESP Library](https://github.com/earthspecies/library), with data sets accompanied by sets of tasks, creating MNIST-like benchmarks for the animal domain.
 
 
 ## Get Started
