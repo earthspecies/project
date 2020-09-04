@@ -4,7 +4,7 @@ The Earth Species Project (ESP) is an open-source collaborative and nonprofit de
 
 We've been doing a lot of exploratory work in our Github, much of it in tutorial form. We've been gaining intuition about how to work with animal vocalizations with the tools of deep learning, as well as think about how to make exploration as a whole faster and more efficient. An example of this is the [Acoustic Representation Toolkit](https://github.com/earthspecies/project/discussions), where we implement a toolkit that allows a wide range of aucoustic representations—from spectrograms, to the [HHT](https://en.wikipedia.org/wiki/Hilbert%E2%80%93Huang_transform), to deep learned—that are well documented, tested, and integrate easily with PyTorth pipelines.
 
-Next up, we are going to start working more specifically on two prongs of research:
+Next up, we are working on more specifically on two prongs of research:
 
 1. [The Cocktail Party Problem](https://github.com/earthspecies/cocktail-party-problem)
 1. Extending Unsupervised Human Audio Translation
