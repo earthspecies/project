@@ -7,7 +7,7 @@ We've been doing a lot of exploratory work in our Github, much of it in tutorial
 Next up, we are working on more specifically on two prongs of research:
 
 1. [The Cocktail Party Problem](https://github.com/earthspecies/cocktail-party-problem)
-1. [Extending Unsupervised Human Audio Translation](https://github.com/orgs/earthspecies/projects/4)
+1. [Extending Unsupervised Human Audio Translation](https://github.com/earthspecies/audio-embeddings)
 
 At the same time, we are working on:
 
