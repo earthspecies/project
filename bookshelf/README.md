@@ -32,6 +32,9 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 
 - [T. Gardner, M. Magnasco: "Sparse time-frequency representations", 2006 PNAS](https://doi.org/10.1073/pnas.0601707103)
 
+### Biology
+- ["Simulating the Bubble Net Hunting Behaviour of Humpback Whales: The BNH-Whale Algorithm" Hala S., Hamilton H.J., Domenici P. (2016) Advances in Artificial Intelligence. Canadian AI 2016. Lecture Notes in Computer Science, vol 9673](https://doi.org/10.1007/978-3-319-34111-8_5)
+
 ### Bioacoustics
 
 - [S. Ness: "The Orchive: A system for semi-automatic annotation and analysis of a large collection of bioacoustic recordings", 2013](https://dspace.library.uvic.ca/handle/1828/5109)
@@ -56,3 +59,7 @@ Reflections on _rights_ and _equality_.
 ### Plants
 
 - [The Revolutionary Genius of Plants: A New Understanding of Plant Intelligence and Behavior](https://www.goodreads.com/book/show/35721619-the-revolutionary-genius-of-plants) - _An incredible book about the history of the scientific study of plant intelligence._
+- ["Sound perception in plants," I Khait, U Obolski, Y Yovel, L Hadany (2019) Seminars in Cell & Developmental Biology
+Volume 92, August 2019, Pages 134-138](https://www.religiousforums.com/data/attachment-files/2019/12/41404_8010913bbc49e4214f9f4e521832a134.pdf)
+- ["Flowers respond to pollinator sound within minutes by increasing nectar sugar concentration," L Hadany, M Veits, I Khait, et al. Ecology Letters, (2019) 22: 1483–1492](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13331)
+
