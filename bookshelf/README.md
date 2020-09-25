@@ -39,6 +39,9 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 
 - [S. Ness: "The Orchive: A system for semi-automatic annotation and analysis of a large collection of bioacoustic recordings", 2013](https://dspace.library.uvic.ca/handle/1828/5109)
 
+## Video Presentations
+- ["What Information Do the Voices of African Savanna Elephants Communicate?" Presenter Joyce Poole, ElephantVoices. Simons Institute Conference on Decoding Communication in Nonhuman Species (2020)](https://www.youtube.com/watch?v=FEu7X6Y1IJs#action=share)
+
 ## Projects
 
 - [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
