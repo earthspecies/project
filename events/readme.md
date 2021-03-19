@@ -1,4 +1,4 @@
-# Earth Species Project Events
+# Earth Species Project & Collaborator Events
 
 **TODO:** copy
 
