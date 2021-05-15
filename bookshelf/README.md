@@ -5,28 +5,28 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 ## Papers
 
 ### Machine Learning
-- [Tim Sainburg, Marvin Thielk, Timothy Q Gentner: "Latent space visualization, characterization, and generation of diverse vocal communication signals", 2019](https://www.biorxiv.org/content/biorxiv/early/2019/12/11/870311.full.pdf) An exploration of generative latent spaces and umap for a 20 species.
-- [T. Mikolov, K. Chen, G. Corrado: "Efficient Estimation of Word Representations in Vector Space", 2013](http://arxiv.org/abs/1301.3781)
-- [A. Conneau, G. Lample, M. Ranzato, L. Denoyer: "Word Translation Without Parallel Data", 2017](http://arxiv.org/abs/1710.04087)
-- [Bermant, P.C., Bronstein, M.M., Wood, R.J. et al. Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics. Sci Rep 9, 12588 (2019)](https://www.nature.com/articles/s41598-019-48909-4)
-- [M. Peters, M. Neumann, M. Iyyer, M. Gardner, C. Clark, K. Lee: "Deep contextualized word representations", 2018](http://arxiv.org/abs/1802.05365)
-- [Tal Schuster, Ori Ram, Regina Barzilay: “Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing”, 2019](http://arxiv.org/abs/1902.09492)
-- [K. Ethayarajh: “How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings”, 2019](https://www.aclweb.org/anthology/D19-1006.pdf)
-- [K. Ethayarajh, D. Duvenaud, G. Hirst: “Towards Understanding Linear Word Analogies”, 2018](http://arxiv.org/abs/1810.04882)
-- [M. Artetxe, G. Labaka, E. Agirre: “Unsupervised Neural Machine Translation”, 2017](http://arxiv.org/abs/1710.11041)
-- [D. Cer, Y. Yang, S. Kong, N. Hua, N. Limtiaco, R. John, N. Constant, M. Guajardo-Cespedes, S. Yuan, C. Tar, Y. Sung, B.: "Universal Sentence Encoder", 2018](http://arxiv.org/abs/1803.11175)
-- [Y. Chung, W. Weng, S. Tong, J. Glass: "Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces", 2018](http://arxiv.org/abs/1805.07467)
-- [Vincent Sitzmann, Julien N. P. Martel, Alexander W. Bergman, David B. Lindell, Gordon Wetzstein: "Implicit Neural Representations with Periodic Activation Functions", 2020](https://arxiv.org/abs/2006.09661)
-- [Sam Bond-Taylor, Chris G. Willcocks: "Gradient Origin Networks", 2020](https://arxiv.org/abs/2007.02798)
-- [Liad Pollak Zuckerman, Eyal Naor, George Pisha, Shai Bagon, Michal Irani: "Across Scales & Across Dimensions: Temporal Super-Resolution using Deep Internal Learning", 2020](http://www.wisdom.weizmann.ac.il/~vision/DeepTemporalSR/supplementary/AcrossScalesAndDimensions_ECCV2020.pdf)
-- [Assaf Shocher, Yossi Gandelsman, Inbar Mosseri, Michal Yarom, Michal Irani, William T. Freeman, Tali Dekel: "Semantic Pyramid for Image Generation", 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shocher_Semantic_Pyramid_for_Image_Generation_CVPR_2020_paper.pdf)
-- [Sagie Benaim, Ariel Ephrat, Oran Lang, Inbar Mosseri, William T. Freeman, Michael Rubinstein, Michal Irani, Tali Dekel: "SpeedNet: Learning the Speediness in Videos", 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Benaim_SpeedNet_Learning_the_Speediness_in_Videos_CVPR_2020_paper.pdf)
-- [Assaf Shocher, Ben Feinstein, Niv Haim, Michal Irani: "From Discrete to Continuous Convolution Layers", 2020](https://arxiv.org/pdf/2006.11120.pdf)
-- [Roman Beliy*, Guy Gaziv*, Assaf Hoogi, Fracesca Strappini, Tal Golan, Michal Irani: "From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI", 2019](http://papers.nips.cc/paper/8879-from-voxels-to-pixels-and-back-self-supervision-in-natural-image-reconstruction-from-fmri.pdf)
-- [Sefi Bell-Kligler, Assaf Shocher, Michal Irani: "KernelGAN: Blind Super-Resolution Kernel Estimation using an Internal-GAN", 2019](http://papers.nips.cc/paper/8321-blind-super-resolution-kernel-estimation-using-an-internal-gan.pdf)
-- [Assaf Shocher, Shai Bagon, Phillip Isola, Michal Irani: "InGAN: Capturing and Remapping the DNA of a Natural Image", 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shocher_InGAN_Capturing_and_Retargeting_the_DNA_of_a_Natural_Image_ICCV_2019_paper.pdf)
-- [Yosef Gandelsman, Assaf Shocher, Michal Irani: "Double-DIP: Unsupervised Image Decomposition via Coupled Deep-Image-Priors", 2019](http://www.wisdom.weizmann.ac.il/~vision/DoubleDIP/resources/DoubleDIP.pdf)
-- [Assaf Shocher, Nadav Cohen, Michal Irani: "Zero-Shot Super-Resolution using Deep Internal Learning", 2018](http://www.weizmann.ac.il/math/irani/sites/math.irani/files/uploads/zssr_cameraready.pdf)
+- [A. Conneau, G. Lample, M. Ranzato, L. Denoyer: "Word Translation Without Parallel Data", 2017.](http://arxiv.org/abs/1710.04087) 
+- [Artetxe, Mikel et al. “Unsupervised Neural Machine Translation.” ArXiv abs/1710.11041 (2018): n. pag.](http://arxiv.org/abs/1710.11041)
+- [Beliy, Roman et al. “From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI.” NeurIPS (2019).](https://arxiv.org/abs/1907.02431) 
+- [Bell-Kligler, Sefi et al. “Blind Super-Resolution Kernel Estimation using an Internal-GAN.” NeurIPS (2019).](https://arxiv.org/abs/1909.06581)
+- Benaim, Sagie et al. “SpeedNet: Learning the Speediness in Videos.” 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2020): 9919-9928. https://arxiv.org/pdf/2004.06130.pdf
+- Bermant, P.C., Bronstein, M.M., Wood, R.J. et al. Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics. Sci Rep 9, 12588 (2019).(https://www.nature.com/articles/s41598-019-48909-4)
+- Bond-Taylor, Sam and Chris G. Willcocks. “Gradient Origin Networks.” ArXiv abs/2007.02798 (2020): n. pag. https://arxiv.org/abs/2007.02798
+- Cer, Daniel Matthew et al. “Universal Sentence Encoder.” ArXiv abs/1803.11175 (2018): n. pag. http://arxiv.org/abs/1803.11175
+- Chung, Yu-An et al. “Unsupervised Cross-Modal Alignment of Speech and Text Embedding Spaces.” NeurIPS (2018). http://arxiv.org/abs/1805.07467
+- Ethayarajh, Kawin et al. “Towards Understanding Linear Word Analogies.” ACL (2019). http://arxiv.org/abs/1810.04882
+- Ethayarajh, Kawin. “How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings.” ArXiv abs/1909.00512 (2019): n. pag. https://www.aclweb.org/anthology/D19-1006.pdf
+- Gandelsman, Yossi et al. ““Double-DIP”: Unsupervised Image Decomposition via Coupled Deep-Image-Priors.” 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2019): 11018-11027. https://arxiv.org/abs/1812.00467
+- M. Peters, M. Neumann, M. Iyyer, M. Gardner, C. Clark, K. Lee: "Deep contextualized word representations", 2018. http://arxiv.org/abs/1802.05365
+- Sainburg T, Thielk M, Gentner TQ (2020) Finding, visualizing, and quantifying latent structure across diverse animal vocal repertoires. PLOS Computational Biology 16(10): e1008228. https://doi.org/10.1371/journal.pcbi.1008228
+- Schuster, Tal et al. “Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing.” NAACL-HLT (2019). http://arxiv.org/abs/1902.09492
+- Shocher, Assaf et al. “"Zero-Shot" Super-Resolution Using Deep Internal Learning.” CVPR (2018). https://arxiv.org/pdf/1712.06087.pdf
+- Shocher, Assaf et al. “From Discrete to Continuous Convolution Layers.” ArXiv abs/2006.11120 (2020): n. pag. https://arxiv.org/pdf/2006.11120.pdf
+- Shocher, Assaf et al. “Internal Distribution Matching for Natural Image Retargeting.” ArXiv abs/1812.00231 (2018): n. pag. https://arxiv.org/abs/1812.00231
+- Shocher, Assaf et al. “Semantic Pyramid for Image Generation.” 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2020): 7455-7464. https://arxiv.org/pdf/2003.06221.pdf
+- Sitzmann, V. et al. “Implicit Neural Representations with Periodic Activation Functions.” ArXiv abs/2006.09661 (2020): n. pag. https://arxiv.org/abs/2006.09661
+- T. Mikolov, K. Chen, G. Corrado: "Efficient Estimation of Word Representations in Vector Space", 2013. http://arxiv.org/abs/1301.3781
+- Zuckerman, Liad Pollak et al. “Across Scales \& Across Dimensions: Temporal Super-Resolution using Deep Internal Learning.” ECCV (2020). https://arxiv.org/pdf/2007.02798.pdf
 
 ### DSP & Sound
 
