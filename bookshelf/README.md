@@ -1,6 +1,6 @@
 # Bookshelf / Resources
 
-A collection of books, papers, and articles on our continental shelves 🌊📚
+A collection of books, papers, and articles on our continental shelves 🌊📚.  
 
 ## Papers
 
@@ -30,4 +30,33 @@ A collection of books, papers, and articles on our continental shelves 🌊📚
 
 ### DSP & Sound
 
-- [T. Gardner, M. Magnasco: "Sparse time-frequency representations", 2006 PNAS](https://doi.org/10.1073/pnas.0601707103)
+- [Gardner, Timothy & Magnasco, Marcelo. (2006). Sparse Time-Frequency Representations. Proc. Natl. Acad. Sci. U.S.A.. 103. 6094-6099. 10.1073/pnas.0601707103](https://doi.org/10.1073/pnas.0601707103)
+
+### Behavioral Ecology & Biology 
+- Allen, Jenny & Garland, Ellen & Dunlop, Rebecca & Noad, Michael. (2019). Network analysis reveals underlying syntactic features in a vocally learnt mammalian display, humpback whale song. Proceedings of the Royal Society B: Biological Sciences. 286. 20192014. 10.1098/rspb.2019.2014. 
+- August, Peter V., and John G. T. Anderson. (1987) “Mammal Sounds and Motivation-Structural Rules: A Test of the Hypothesis.” Journal of Mammalogy, vol. 68, no. 1, 1987, pp. 1–9. JSTOR, www.jstor.org/stable/1381039. 
+- Benti B, Miller PJO, Biuw M, Curé C (2021) Indication that the behavioural responses of humpback whales to killer whale sounds are influenced by trophic relationships. Mar Ecol Prog Ser 660:217-232. https://doi.org/10.3354/meps13592
+- Blasi, D. & Moran, Steven & Moisik, Scott & Widmer, Paul & Dediu, Dan & Bickel, Balthasar. (2019). Human sound systems are shaped by post-Neolithic changes in bite configuration. Science. 363. eaav3218. 10.1126/science.aav3218. 
+- Bonnel, Julien & Thode, Aaron & Blackwell, Susanna & Kim, Katherine & Macrander, A.. (2014). Range estimation of bowhead whale (Balaena mysticetus) calls in the Arctic using a single hydrophone. The Journal of the Acoustical Society of America. 136. 145. 10.1121/1.4883358. 
+- Braslau-Schneck, Stacy. Innovative Behaviors and Synchronization in Bottlenose Dolphins. University of Hawai'i at Manoa. ProQuest Dissertations Publishing, 1994. 28302997.
+- Carel ten Cate C & Okanoya K. 2012. "Revisiting the syntactic abilities of non-human animals: natural vocalizations and artificial grammar learning." Phil. Trans. R. Soc. B 367, 1984–1994. (doi:10.1098/rstb.2012.0055)
+- Crook, Anne & Baddeley, Roland & Osorio, Daniel. (2002). Identifying the structure in cuttlefish visual signals. Philosophical transactions of the Royal Society of London. Series B, Biological sciences. 357. 1617-24. 10.1098/rstb.2002.1070. 
+- Doyle, Laurance & McCowan, Brenda & Johnston, Simon & Hanser, Sean. (2011). Information theory, animal communication, and the search for extraterrestrial intelligence. Acta Astronautica - ACTA ASTRONAUT. 68. 406-417. 10.1016/j.actaastro.2009.11.018. 
+- Dunlop, Rebecca. "Potential motivational information encoded within humpback whale non-song vocal sounds", The Journal of the Acoustical Society of America 141, 2204-2213 (2017) https://doi.org/10.1121/1.4978615
+- Gouzoules, Harold & Gouzoules, Sarah. (2000). Agonistic screams differ among four species of macaques: The significance of motivation-structural rules. Animal behaviour. 59. 501-512. 10.1006/anbe.1999.1318. 
+- Hala, Stacey & Hamilton, Howard & Domenici, Paolo. (2016). Simulating the Bubble Net Hunting Behaviour of Humpback Whales: The BNH-Whale Algorithm. 40-45. 10.1007/978-3-319-34111-8_5. 
+- Hattori Y, Tomonaga M. Rhythmic swaying induced by sound in chimpanzees (Pan troglodytes). Proc Natl Acad Sci U S A. 2020 Jan 14;117(2):936-942. doi: 10.1073/pnas.1910318116. Epub 2019 Dec 23. PMID: 31871195; PMCID: PMC6969502.
+- HEIJNINGEN, CAROLINE & de Visser, Jos & Zuidema, Willem & Ten Cate, Carel. (2010). SIMPLE RULES CAN EXPLAIN DISCRIMINATION OF PUTATIVE RECURSIVE SYNTACTIC STRUCTURES BY SONGBIRDS: A CASE STUDY ON ZEBRA FINCHES. Proceedings of the National Academy of Sciences. 106. 507-508. 10.1142/9789814295222_0116. 
+- Horton, Travis & Tw, Horton & An, Zerbini & Mp, Francis & Ml, Domeier & Dp, Costa & Pw, Robinson & Caj, Duffy & Hauser, Nan & Zerbini, Alexandre & Francis, Malcolm & Domeier, Michael & Andriolo, Artur & Costa, Daniel & Robinson, Patrick & Duffy, Clinton & Nasby-Lucas, Nicole & Holdaway, Richard & Clapham, Phillip. (2017). Route Fidelity during Marine Megafauna Migration. Frontiers in Marine Science. 4. 10.3389/fmars.2017.00422. 
+- Jurasz, C.M. & Jurasz, V.P.. (1979). Feeding modes of the humpback whale, Megaptera novaeangliae, in southeast Alaska. Sci. Rep. Whales Res. Inst.. 31. 69-83. 
+- Kolling, Nils & Akam, Thomas. (2017). (Reinforcement?) Learning to forage optimally. Current opinion in neurobiology. 46. 162-169. 10.1016/j.conb.2017.08.008. 
+- Kosma, Madison & Werth, Alexander & Szabo, Andrew & Straley, Jan. (2019). Pectoral herding: an innovative tactic for humpback whale foraging. Royal Society Open Science. 6. 191104. 10.1098/rsos.191104. 
+- Kuczaj, Stan & Eskelinen, Holli. (2014). Why do Dolphins Play?. Animal Behavior and Cognition. 2. 10.12966/abc.05.03.2014. 
+- Lingle, Susan & Riede, Tobias. (2014). Deer Mothers Are Sensitive to Infant Distress Vocalizations of Diverse Mammalian Species. The American naturalist. 184. 510-522. 10.1086/677677. 
+- Nielsen, Mia & Bejder, Lars & Videsen, Simone & Christiansen, Fredrik & Madsen, Peter. (2019). Acoustic crypsis in southern right whale mother–calf pairs: infrequent, low-output calls to avoid predation?. The Journal of Experimental Biology. 222. jeb190728. 10.1242/jeb.190728. 
+- Ouattara, Karim & Lemasson, Alban & Zuberbühler, Klaus. (2009). Campbell's monkeys concatenate vocalizations into context-specific call sequences. Proceedings of the National Academy of Sciences of the United States of America. 106. 22026-31. 10.1073/pnas.0908118106. 
+- Rekdahl, Melinda & Dunlop, Rebecca & Goldizen, Anne & Garland, Ellen & Biassoni, Nicoletta & Miller, Patrick & Noad, Michael. (2015). Non-song social call bouts of migrating humpback whales. The Journal of the Acoustical Society of America. 137. 3042. 10.1121/1.4921280. 
+- Tiemann, Christopher & Thode, Aaron & Straley, Jan & O'Connell, Victoria & Folkert, Kendall. (2006). Three-dimensional localization of sperm whales using a single hydrophone. The Journal of the Acoustical Society of America. 120. 2355-65. 10.1121/1.2335577. 
+- Vergara, Valeria & Mikus, Marie-Ana. (2018). Contact call diversity in natural beluga entrapments in an Arctic estuary: Preliminary evidence of vocal signatures in wild belugas. Marine Mammal Science. 35. 10.1111/mms.12538. 
+- Videsen, Simone & Bejder, Lars & Johnson, Mark & Madsen, Peter. (2017). High suckling rates and acoustic crypsis of humpback whale neonates maximise potential for mother-calf energy transfer. Functional Ecology. 31. 10.1111/1365-2435.12871. 
+- Winkler, Sasha & Bryant, Gregory (2021). Play vocalisations and human laughter: a comparative review, Bioacoustics, DOI: 10.1080/09524622.2021.1905065
