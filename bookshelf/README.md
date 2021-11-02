@@ -58,6 +58,7 @@ A collection of books, papers, and articles on our continental shelves 🌊📚.
 - Hobaiter, Catherine et al. The Meanings of Chimpanzee Gestures. Current Biology, Volume 24, Issue 14, 1596 - 1600
 - Horton, Travis & Tw, Horton & An, Zerbini & Mp, Francis & Ml, Domeier & Dp, Costa & Pw, Robinson & Caj, Duffy & Hauser, Nan & Zerbini, Alexandre & Francis, Malcolm & Domeier, Michael & Andriolo, Artur & Costa, Daniel & Robinson, Patrick & Duffy, Clinton & Nasby-Lucas, Nicole & Holdaway, Richard & Clapham, Phillip. (2017). Route Fidelity during Marine Megafauna Migration. Frontiers in Marine Science. 4. 10.3389/fmars.2017.00422. 
 - Jurasz, C.M. & Jurasz, V.P.. (1979). Feeding modes of the humpback whale, Megaptera novaeangliae, in southeast Alaska. Sci. Rep. Whales Res. Inst.. 31. 69-83. 
+- Kiela, Douwe et al. “Grounding Semantics in Olfactory Perception.” ACL (2015).
 - Khait, I., Sharon, R., Perelman, R., Boonman, A., Yovel, Y. and Hadany, L., 2018. The sounds of plants–Plants emit remotely-detectable ultrasounds that can reveal plant stress. bioRxiv, p.507590.
 - Knox, A., Markx, J., How, E. et al. Gesture Use in Communication between Mothers and Offspring in Wild Orang-Utans (Pongo pygmaeus wurmbii) from the Sabangau Peat-Swamp Forest, Borneo. Int J Primatol 40, 393–416 (2019). https://doi.org/10.1007/s10764-019-00095-w
 - Kolling, Nils & Akam, Thomas. (2017). (Reinforcement?) Learning to forage optimally. Current opinion in neurobiology. 46. 162-169. 10.1016/j.conb.2017.08.008. 
