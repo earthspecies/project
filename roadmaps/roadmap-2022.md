@@ -65,7 +65,7 @@ There is a set of fundamental data-related challenges along the path to decoding
 
 A benchmark is a collection of tasks and datasets designed to measure the performance of ML algorithms in a standardized manner. Benchmarks spur the development of new methods and serve as a proxy for measuring the progress in a field of research. For example, benchmarks have served this purpose well in computer vision ([ImageNet](https://www.image-net.org/)), human language ([SuperGLUE](https://super.gluebenchmark.com/)), and speech processing ([SUPERB](https://superbbenchmark.org/)).
 
-Benchmarks for fundamental challenges in animal communication research are largely absent, meaning researchers are working in silos without a way of comparing results. By developing benchmarks in collaboration with our partners, beginning with ([Hagiwara et al., 2022](https://arxiv.org/abs/2210.12300)), we provide common standards for researchers developing new methods in this field. Additionally, we expect that these benchmarks will serve to draw attention of the ML community to challenges arising in biology.
+Benchmarks for fundamental challenges in animal communication research are largely absent, meaning researchers are working in silos without a way of comparing results. By developing benchmarks in collaboration with our partners (beginning with [Hagiwara et al., 2022](https://arxiv.org/abs/2210.12300)), we provide common standards for researchers developing new methods in this field. Additionally, we expect that these benchmarks will serve to draw attention of the ML community to challenges arising in biology.
 
 ### Foundation Models
 
